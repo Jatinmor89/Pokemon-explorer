@@ -82,24 +82,7 @@ Live URL: `https://Jatinmor89.github.io/pokemon-explorer/`
 - Modal/popup implementation in React
 - Responsive grid layouts with CSS
 
----
 
-## 🗂️ Part of My 15-Project Series
-
-| # | Project | Level | Status |
-|---|---------|-------|--------|
-| 1 | Animated Landing Page | 🟢 Beginner | ✅ Done |
-| 2 | Quiz App | 🟢 Beginner | ✅ Done |
-| 6 | GitHub Profile Finder | 🟡 Intermediate | ✅ Done |
-| 7 | Expense Tracker | 🟡 Intermediate | ✅ Done |
-| **8** | **Pokemon Explorer** | 🟡 Intermediate | ✅ **This Project** |
-| 11 | Blog Platform | 🔴 Advanced | 🔜 |
-| 12 | Real-time Chat | 🔴 Advanced | 🔜 |
-| 13 | E-commerce Store | 🔴 Advanced | 🔜 |
-| 14 | AI Image Generator | 🔴 Advanced | 🔜 |
-| 15 | NeuralChat AI | 🔴 Advanced | 🔜 |
-
----
 
 ## 👤 Author
 
